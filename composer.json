@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "yohang/oossh",
+    "name": "youknowriad/oossh",
     "description": "Object Oriented SSH for PHP",
     "keywords": ["ssh"],
     "homepage": "https://github.com/frequence-web/OOSSH",
